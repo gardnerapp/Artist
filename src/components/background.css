@@ -1,0 +1,26 @@
+.Page{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    font-kerning: normal;
+    letter-spacing: 2px;
+}
+.Header{
+    color: mintcream;
+    text-align: center;
+    font-style: italic;
+    font-family: Phosphate, monospace;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.ImageBanner{
+
+}
+.Image1{
+    alignment: left;
+
+}
+.Image2{
+    alignment: right;
+}
